@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orientation App</string>
+    <string name="hint_text">Enter your name:</string>
+    <string name="button_text">Confirm</string>
+</resources>
